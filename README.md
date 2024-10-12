@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--타이틀 부분-->
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=365EF7&center=true&vCenter=true&multiline=false&width=435&lines=Welcome+to+Happbob's+space+%3A\)"/>
