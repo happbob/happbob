@@ -13,12 +13,12 @@
 <!--내용 부분-->
 <h3 align="center">📦 My NPM Package - nestjs-swagger-decorator 📦</h3>
 
-<center>
+<div align="center">
 Minimal Swagger decorator for NestJS <br>
 that simplifies complex response handling in your NestJS applications.
 
 [GO TO NPM LINK](https://www.npmjs.com/package/nestjs-swagger-decorator)
-</center>
+</div>
 
 <div align="center">
     <span>
