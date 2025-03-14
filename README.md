@@ -87,7 +87,7 @@ that simplifies complex response handling in your NestJS applications.
 <br>
 <h3 align="center">📫 Certificate 📫</h3>
 <div align="center">
-  <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width=200 height=200>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c2272885-6962-4f1e-932e-ac1506d6cd4f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
